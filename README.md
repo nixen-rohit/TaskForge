@@ -51,6 +51,8 @@ Users can register, log in, and manage their personal tasks with full CRUD funct
 
 ## 🏗 Folder Structure
 
+``` bash
+
 TaskForge/
 ├─ backend/ # Node.js + Express + Prisma
 │ ├─ src/
@@ -72,7 +74,7 @@ TaskForge/
 └─ tailwind.config.js
 
 
-
+```
 ---
 
 ## ⚙️ Setup Instructions
