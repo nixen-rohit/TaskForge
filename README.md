@@ -19,17 +19,7 @@ Users can register, log in, and manage their personal tasks with full CRUD funct
 
 ---
 
-## 🖥 Screenshots
-
-*Add your screenshots in `screenshots/` folder for a better look:*
-
-- Landing Page  
-- Login/Register  
-- Dashboard / Task List  
-- Add/Edit Task Modal  
-
----
-
+ 
 ## 📦 Tech Stack
 
 **Frontend:**  
